@@ -7,37 +7,37 @@ This project consist of bash scripts that create a webpage consisting of informa
 
 The web page is divided into sections:
 
-Machine
-Linux distribution number
-Distributor ID: <distribution name>
-Description: <distribution description>
-Release: <number>
-Codename: <name>
-OpenSSL: <distribution number / date>
-Up days, Users, Load average: 5min 15min 30min
-Last login: <date, time, length>
+Machine<br>
+Linux distribution number<br>
+Distributor ID: distribution name<br>
+Description: distribution description<br>
+Release: number<br>
+Codename: name<br>
+OpenSSL: distribution number / date<br>
+Up days, Users, Load average: 5min 15min 30min<br>
+Last login: date, time, length<br>
 
-Rogue Processes
-<unrecognized running processes>
+Rogue Processes<br>
+unrecognized running processes<br>
 
 Free
 
 Netstats
 
 Mixmaster<br>
-TOP data
-MD5
-Key+/-dates / days to expdt
+TOP data<br>
+MD5<br>
+Key+/-dates / days to expdt<br><br>
 
-Misc Stats
-<mailq count>
-<size of /var/log>
+Misc Stats<br>
+mailq count<br>
+size of /var/log>\<br>
 
-Mixmaster
-<pool count>
-<pool records processed today>
-<mbox message count>
+Mixmaster<br>
+pool count<br>
+pool records processed today<br>
+mbox message count<br>
 
-Remailer Statistics
-<stats for your remailer from each pinger>
+Remailer Statistics<br>
+stats for your remailer from each pinger<br>
 
