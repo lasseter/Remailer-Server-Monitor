@@ -8,7 +8,7 @@ This project consist of bash scripts that create a webpage consisting of informa
 The web page is divided into sections:
 
 Machine
-Linux <distribution number>
+Linux distribution number
 Distributor ID: <distribution name>
 Description: <distribution description>
 Release: <number>
@@ -25,9 +25,9 @@ Free
 Netstats
 
 Mixmaster
-<TOP data>
-<MD5>
-<Key+/-dates / days to expdt>
+TOP data
+MD5
+Key+/-dates / days to expdt
 
 Misc Stats
 <mailq count>
