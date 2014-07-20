@@ -8,7 +8,7 @@ This project consist of bash scripts that create a webpage consisting of informa
 The web page is divided into sections:
 
 Machine<br>
-Linux distribution number<br>
+ Linux distribution number<br>
 Distributor ID: distribution name<br>
 Description: distribution description<br>
 Release: number<br>
